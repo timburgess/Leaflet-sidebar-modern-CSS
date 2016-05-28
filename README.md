@@ -1,5 +1,4 @@
-# Modern CSS for Leaflet-sidebar
-Modern CSS for Leaflet sidebar v2
+# Modern CSS for Leaflet-sidebar v2
 
 The [Leaflet sidebar v2 project](https://github.com/Turbo87/sidebar-v2) uses a SASS preprocessor to build the `leaflet-sidebar.css` file to be used with the sidebar plugin. Rather than using SASS, this project contains a modern CSS file which uses features such as CSS variables (aka `custom properties`) to make the sidebar CSS easily tweakable. There is also some optimization of media queries but the file size differences are minimal once both are minimized.
 
